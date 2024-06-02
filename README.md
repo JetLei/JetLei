@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JetLei
-- 👀 I’m interested in online games
-- 🌱 I’m currently learning AIscript
+- 👀 I’m rubbish
+- 🌱 I sha ye bu shi
 
 <!---
 JetLei/JetLei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
